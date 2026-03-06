@@ -5,3 +5,4 @@ streamlit
 matplotlib
 joblib
 plotly
+altair<5
